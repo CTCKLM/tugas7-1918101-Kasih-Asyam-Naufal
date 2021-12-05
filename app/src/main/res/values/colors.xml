@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#8d94f0</color>
+    <color name="purple_500">#6580a3</color>
+    <color name="purple_700">#4c5187</color>
+    <color name="teal_200">#8df0ed</color>
+    <color name="teal_700">#65a398</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="list_row_start_color">#54b36a</color>
+    <color name="list_row_end_color">#4c5187</color>
+    <color name="list_row_hover_start_color">#54b36a</color>
+    <color name="list_row_hover_end_color">#6580a3</color>
+</resources>
